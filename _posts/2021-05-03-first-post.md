@@ -8,7 +8,7 @@ title: Hello World!
 
 # Hello World!
 
-So here it is, my first blog post. More likely than not this particular post will have a short life, and I'll delete it once I create my first **hIgH quAliTY** blog post. I have used markdown a little bit before, mostly for making hastily thrown together `README` files for repos that I never made public anyway. It seems pretty intuitive to use so far. Let's test some features.
+So here it is, my first blog post. More likely than not this particular post will have a short life, and I'll delete it once I create my first **hIgH quAliTy** blog post. I have used markdown a little bit before, mostly for making hastily thrown together `README` files for repos that I never made public anyway. It seems pretty intuitive to use so far. Let's test some features.
 
 ## Lists
 
