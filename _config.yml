@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Bassel's Blog
-description: Just setting up a new blog with fastpages
+title: Climbing the Giant
+description: Every day a little higher, to see a little further
 github_username: basselsaleh
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
