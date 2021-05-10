@@ -2,7 +2,8 @@
 toc: false
 layout: post
 title: "Not Knowing"
-description: "\"They say great science is built on the shoulders of giants. Not here. At Aperture, we do all our science from scratch. No hand holding.\" - Cave Johnson"
+#description: "\"They say great science is built on the shoulders of giants. Not here. At Aperture, we do all our science from scratch. No hand holding.\" - Cave Johnson"
+description: "test"
 categories: [markdown]
 ---
 

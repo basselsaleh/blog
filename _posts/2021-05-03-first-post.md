@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: My first post, just a test
+description: "My first post just a test"
 categories: [markdown]
-title: Hello World!
+title: "Hello World!"
 ---
 
 # Hello World!
