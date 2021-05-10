@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Hey there, sorry there isn't anything here yet. I was going to write a proper About Me before publishing the new site today, but I'm sleepy. Hopefully I'll get to it later this week.
